@@ -1,0 +1,9 @@
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/model/Libro.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/controller/BibliotecarioController.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/dto/LibroDTO.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/dto/UsuarioDTO.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/repository/UsuarioRepository.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/controller/UsuarioController.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/repository/LibroRepository.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/BibliotecaApiApplication.java
+/home/skarr/Documents/Trabajos/poo/biblioteca_api/src/main/java/com/biblioteca/api/model/Usuario.java

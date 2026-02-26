@@ -1,0 +1,9 @@
+com/biblioteca/api/repository/UsuarioRepository.class
+com/biblioteca/api/controller/UsuarioController.class
+com/biblioteca/api/dto/UsuarioDTO.class
+com/biblioteca/api/controller/BibliotecarioController.class
+com/biblioteca/api/model/Libro.class
+com/biblioteca/api/BibliotecaApiApplication.class
+com/biblioteca/api/model/Usuario.class
+com/biblioteca/api/dto/LibroDTO.class
+com/biblioteca/api/repository/LibroRepository.class
